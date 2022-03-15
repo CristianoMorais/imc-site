@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calc-imc-react.git/static/css/main.b57578a0.css",
+    "main.js": "/calc-imc-react.git/static/js/main.88af7517.js",
+    "static/js/787.10a56187.chunk.js": "/calc-imc-react.git/static/js/787.10a56187.chunk.js",
+    "static/media/powered.png": "/calc-imc-react.git/static/media/powered.efe939d1de86cae3bb81.png",
+    "index.html": "/calc-imc-react.git/index.html",
+    "main.b57578a0.css.map": "/calc-imc-react.git/static/css/main.b57578a0.css.map",
+    "main.88af7517.js.map": "/calc-imc-react.git/static/js/main.88af7517.js.map",
+    "787.10a56187.chunk.js.map": "/calc-imc-react.git/static/js/787.10a56187.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b57578a0.css",
+    "static/js/main.88af7517.js"
+  ]
+}
